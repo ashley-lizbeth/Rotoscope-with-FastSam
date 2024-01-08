@@ -1,0 +1,11 @@
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.idea
+weights
+input
+output
+build/
+*.egg-info/
+gradio_cached_examples
